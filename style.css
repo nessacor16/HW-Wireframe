@@ -1,0 +1,91 @@
+/* css */
+
+body {
+    padding: 0px;
+    margin: 225px;
+    margin-top: 0px;
+    display: center;
+    line-height: 150%;
+    font-family: arial, helvetica Neue, helvetica, sans-serif;
+    color: rgb(33, 33, 90);
+    background: #777;
+    width: 1000px;
+    height: 500px;
+    font-size: 18px;
+    text-align: center;
+    flex-flow: column;
+}
+
+#title1,
+#title2,
+#title6 {
+    padding: 20px;
+    margin: 50px;
+}
+
+#title5 {
+    padding: 40px;
+    margin-block-end: 40px;
+    margin-top: auto;
+    margin-left: 0px;
+    float: right;
+    text-align: justify;
+    display: flex3;
+    align-content: stretch;
+}
+
+#title1,
+#title2,
+#title3,
+#title4,
+#title5,
+#title6,
+#title7 {
+    
+    background: rgb(235, 234, 233);
+    font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7 {
+    font-size: 24px;
+}
+
+#title3 {
+    width: 495px;
+    border: 3px solid black;
+}
+
+
+#title4 {
+    color: #ebebeb;
+    background: #777;
+    vertical-align: middle;
+    width: 495px;
+    text-align: inherit;
+}
+
+h4 {
+    border-block: 10px;
+}
+
+.container2,
+.A {
+    background:  rgb(235, 234, 233);
+    color: rgb(33, 33, 90);
+}
+
+#title6 {
+    background:  rgb(235, 234, 233);
+}
+
+.container  {
+    width: 1000px;
+    margin: 20 auto;
+    align-content: center;
+}
